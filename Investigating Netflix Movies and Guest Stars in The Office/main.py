@@ -1,3 +1,6 @@
+#analiza długości filmów ukazujących się na platformie netflix projekt wykonany na platformie Datacamp 
+
+
 # Create the years and durations lists
 years =list(range(2011,2021))
 durations = [103, 101, 99, 100, 100, 95, 95, 96, 93,90]
